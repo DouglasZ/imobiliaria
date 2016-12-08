@@ -1,0 +1,14 @@
+*.DS_Store
+*.metadata
+*.settings
+*.recommenders
+*.idea/*
+*.externalToolBuilders
+target/
+bin/
+Servers/*
+RemoteSystemsTempFiles/
+rebel.xml
+.mvn*
+mvnw*
+
